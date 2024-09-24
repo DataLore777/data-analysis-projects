@@ -9,6 +9,7 @@ print("Hello, World!"); # Comments do not have to start at the beginning of a li
 # multi-line
 # comments.
 
+<<<<<<< HEAD
 print("Comments make your code more readable by others.")
 #print(" But it's only as good as your writing.")
 
@@ -16,3 +17,9 @@ print("Comments make your code more readable by others.")
 #Humanities
 #Like
 #Sciences
+=======
+print("Comments make your code more readable by others.");
+
+
+# Chagnge
+>>>>>>> 2b828d53ecaf60a67dd7edd5330e96673d1b222c
